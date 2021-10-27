@@ -4,11 +4,8 @@
 
 > _I'm **Web Full Stack Developer** in Seoul, South Korea._
 
-🧑‍💻 I'm currently working in [team-elk](https://github.com/team-elk).
-
+🧑‍💻 I'm currently working in [team-elk](https://github.com/team-elk).  
 🧑‍🎓 I'm currently studying in [CSE](http://cs.hanyang.ac.kr/?rsMobile=false) of [Hanyang University](https://www.hanyang.ac.kr/).
-
----
 
 ## 🛠 Tech Stack
 
