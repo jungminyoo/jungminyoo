@@ -1,5 +1,3 @@
-# 프로필
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Jungmin%20Yoo&fontSize=70)
 
 # 👋 Hello! I'm Jungmin Yoo.
