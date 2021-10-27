@@ -49,3 +49,5 @@
 
 <a href="https://www.instagram.com/jj_ung0918/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=footer&fontSize=70)
