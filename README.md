@@ -4,7 +4,7 @@
 
 > _I'm **Web Full Stack Developer** in Seoul, South Korea._
 
-🧑‍💻 I'm currently working in [team-genever](https://github.com/team-genever).  
+🧑‍💻 I worked in [team-genever](https://github.com/team-genever) (2021.09 ~ 2021.11).  
 🧑‍🎓 I'm currently studying in [CSE](http://cs.hanyang.ac.kr/?rsMobile=false) of [Hanyang University](https://www.hanyang.ac.kr/).
 
 ## 🛠 Tech Stack
@@ -46,11 +46,11 @@
 <a href="https://github.com/yoojm4718"><img src="https://img.shields.io/badge/Studying%20Github%20Account-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 
 ## 👉 To Know About Me
 
-<a href="https://www.instagram.com/jj_ung0918/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/dev_yoo0918/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=150&section=footer&fontSize=70)
